@@ -12,9 +12,9 @@ const PreLoader = () => {
 
   return (
     <div
-    //   style={{
-    //     display: visible ? "fle" : "none",
-    //   }}
+      style={{
+        display: visible ? "fle" : "none",
+      }}
       className="preloader"
     >
       <div className="loading-container">
