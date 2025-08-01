@@ -7,7 +7,7 @@ const PreLoader = () => {
   useEffect(() => {
     setTimeout(() => {
       setVisible(false);
-    }, 1000);
+    }, 5000);
   }, []);
 
   return (
