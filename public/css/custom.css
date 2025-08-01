@@ -46,10 +46,10 @@
 
 :root {
   --primary-color: #fff;
-  --secondary-color: #0e0f12;
+  --secondary-color: #191a1e;
   --text-color: #f2f2f2;
   --accent-color: #fb7f00;
-  --accent-secondary-color: #0e0f12;
+  --accent-secondary-color: #191a1e;
   --divider-color: rgba(255, 255, 255, 0.14);
   --error-color: #e65757;
   --default-font: "Rubik", sans-serif;
